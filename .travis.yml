@@ -1,12 +1,12 @@
 language: python
 python:
-  -"3.6"
+  - "3.6"
   #command to rum tests
 script:
-  -py.test teste.py
+  - py.test teste.py
 
 afer script:
 notfications:
   recipients:
   #-lucirene.silva@aluno.faculdadeimpacta.com.br
-  -lucirenejose1993
+  - lucirenejose1993
