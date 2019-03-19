@@ -6,7 +6,7 @@ script:
   - py.test teste.py
 
 after script:
-notfications:
+notyfications:
   recipients:
   #-lucirene.silva@aluno.faculdadeimpacta.com.br
   - lucirenejose1993
