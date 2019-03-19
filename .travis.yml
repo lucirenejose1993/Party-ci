@@ -6,6 +6,6 @@ script:
   -py.test teste.py
 
 afer script:
-notfication:
+notfications:
   recipients:
   -lucirene.silva@aluno.faculdadeimpacta.com.br
