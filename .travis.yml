@@ -8,4 +8,5 @@ script:
 afer script:
 notfications:
   recipients:
-  -lucirene.silva@aluno.faculdadeimpacta.com.br
+  #-lucirene.silva@aluno.faculdadeimpacta.com.br
+  -lucirenejose1993
